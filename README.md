@@ -1,9 +1,10 @@
 # Hi there, I'm Yasin! 👋
  
 * 🎓 I'm a Computer Science graduate (B.Sc. + M.Sc.) from Germany with an academic background in ML/NLP, now focused on cloud and DevOps engineering.
-* 🛠️ My current focus is on cloud infrastructure, container platforms, and LLM deployment. I enjoy working close to the infrastructure layer and figuring out how things actually run.
-* 📚 I'm always learning. Right now that means Azure certification, data-intensive systems, and AI engineering.
-* 🤝 Happy to connect, collaborate, or just talk tech!
+* 🛠️ My current focus is on cloud infrastructure, container platforms, and AI deployment. I enjoy working close to the infrastructure layer and figuring out how things actually run.
+* 📚 I'm always learning. Right now that means deepening my expertise in Terraform and Kubernetes through hands-on practice and reading about data-intensive systems.
+* ☕ Always up for a good conversation about tech, systems, or whatever you're building.
+
  
 ## ⚡ Fun fact
  
